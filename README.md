@@ -45,6 +45,7 @@
     <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="berestv" align="left"><br><br>
 
 
+
 ![Bernardo's GitHub Stats](https://pixel-profile.vercel.app/api/github-stats?username=berestv&screen_effect=true&dithering=true&include_all_commits=true&pixelate_avatar=true&theme=road_trip&theme=road_trip&color=%23ffffffFF&hide=avatar)
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=berestv&show_icons=true&hide_border=true) -->
 <!--[![bbento-e's 42 stats](https://badge.mediaplus.ma/binary/bbento-e?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42) -->
