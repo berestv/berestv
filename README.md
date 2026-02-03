@@ -43,7 +43,7 @@
 
 <h3><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> &nbsp Stats </h3>
     <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="berestv" align="left"><br><br>
-<p align="center">
+
 
 
 ![Bernardo's GitHub Stats](https://pixel-profile.vercel.app/api/github-stats?username=berestv&dithering=true&include_all_commits=true&pixelate_avatar=true&theme=road_trip&theme=road_trip&color=%23ffffffFF&hide=avatar)
